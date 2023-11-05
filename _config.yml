@@ -36,45 +36,37 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Extensive Coloring Library
+    description                           : Access a vast collection of coloring pages, from simple designs to intricate patterns, ensuring a wide variety for users of all ages and preferences
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Color Palette
+    description                           : Enjoy a rich color palette with a wide selection of colors, gradients, and custom color creation options to let your creativity run wild
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Undo and Redo
+    description                           : Correct mistakes or experiment with different colors confidently using the undo and redo functionality for a smooth coloring experience
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Zoom and Pan
+    description                           : Get up close to the details or zoom out for an overview of the entire design, allowing for precise coloring on both small and large screens.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Fill Tool
+    description                           : Quickly fill larger areas with color using the fill tool, saving time and making coloring more efficient.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Share and Save
+    description                           : Save your completed artwork to your device or share it with friends and family through social media or messaging platform
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Offline Mode
+    description                           : Enjoy uninterrupted coloring even without an internet connection, making it convenient for on-the-go creativity.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Themes and Categories
+    description                           : Browse through themed categories, such as animals, mandalas, landscapes, and more, to find the perfect coloring page for your mood.
     fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
